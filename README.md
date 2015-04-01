@@ -1,3 +1,8 @@
+* [root](/)
+* [sub1](../)
+* [sub2](../../)
+* [sub3](../../../)
+
 # Get Started
 
 Are you looking to create an application that uses the One Platform API? You've come to the right place. Exosite provides APIs and libraries that make it possible to work with the platform from a variety of environments. 
